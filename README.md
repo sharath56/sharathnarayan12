@@ -2,7 +2,7 @@
 - 👀 I’m interested in ML-IoT (Medical IoT) and Computer Vision 
 - 🌱 I’m currently learning 🤘 Medical Electronics and Signal processing
 - 📫 How to reach me : https://www.linkedin.com/in/sharath-narayan-93160920b/✋
-- my Cv https://sharathnarayan12.github.io/MyCV/
+- 🤩 my Cv https://sharathnarayan12.github.io/MyCV/
 
 <<<Hi! I'm Sharath🖖 and I'm an Engineer.
 I love designing and building a variety of circuits, programming, and executing them. My passion for circuit designing drives me to learn more and experiment with new things. 
